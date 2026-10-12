@@ -1,0 +1,17 @@
+﻿# SLAM-TPL-v1 交付包校验值
+# 生成时间: 2026-10-14 00:00:29
+# 校验方式: 对源目录与交付目录逐文件计算 SHA-256 并比对
+# 格式: SHA-256  字节数  文件名
+
+5d20cf4edd8a185539513b2a728896319478cf9cc2848ed8b2d17faa5a87db4d           4235  Ubuntu22.04-GLIM.vmx
+f0490b5c615aedba046a40561f389bfc38deb2c4b83eea0808b738022e210bc8         270840  Ubuntu22.04-GLIM.nvram
+e5af3ea1a52666cdf856ec5f0ddfe38058266dfd6a4dc0c5cef047cb96f2494a            271  Ubuntu22.04-GLIM.vmxf
+5e4cac15d31fad319ec6d923abbbbf2abe8a8b769221f34e56988197100e9774            992  Ubuntu22.04-GLIM.vmsd
+ece95e4f74a42b5e9e81efc7fa5e55912c40c9c030dd2d04976e35bab157a8cc    13697679360  Ubuntu22.04-GLIM.vmdk
+1ed0fe4507200e65f732f4d5b92034eda76c8a21df5cf65b45d545931acf2656     9310896128  Ubuntu22.04-GLIM-000001.vmdk
+5d4b5837d7db6ccb4ef82274f1670ee50fa86d28170cdda017c02174cd9294d7       48168960  Ubuntu22.04-GLIM-000002.vmdk
+86c78778311b9b26d4557fabe233a4c95d49278d5339f2baa2f1cda0f0e97e65         291790  Ubuntu22.04-GLIM-Snapshot1.vmsn
+8f1cd4217bb339cfb71500ce1f99687233b5ccf8bfa4ced5fb221a528a51b882        8213711  Ubuntu22.04-GLIM-Snapshot2.vmsn
+
+# 总计: 9 个文件
+# 结论: 全部一致，交付包完整
